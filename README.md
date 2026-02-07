@@ -1,8 +1,6 @@
-This is the official project page for the paper:  
-**"Escaping Local Minima Provably in Non-convex Matrix Sensing: A Deterministic Framework via Simulated Lifting"**
+This is the official project page for the paper:  **Escaping Local Minima Provably in Non-convex Matrix Sensing: A Deterministic Framework via Simulated Lifting**
 
 ---
-
 ##  Links
 * **arXiv Paper:** [https://arxiv.org/abs/2602.05887](https://arxiv.org/abs/2602.05887)
 
